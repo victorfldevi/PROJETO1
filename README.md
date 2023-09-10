@@ -17,4 +17,5 @@ RM 98827 - André Coelho Solér
 Links do Deploy: 
 
 Inspect - https://vercel.com/victorfldevi/projeto-1/2WqB3Wd5w7xXTci9rLSBCr6athQS
+
 Preview - https://projeto-1-rfywdbl4a-victorfldevi.vercel.app
